@@ -1,5 +1,5 @@
 <?php
-require_once "./data/MovieData.php";
+require_once "./data/movieData.php";
 class Movie {
   public $titolo;
   public $regista;
